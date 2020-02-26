@@ -53,8 +53,8 @@
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
-      width: 250px;
-      height: 250px;
+      width: 350px;
+      height: 350px;
       background: url("../img/Kirbye_mil_photo.jpg");
       border-radius: 50%;
       border: solid 3px #eece1a; }
